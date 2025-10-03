@@ -62,13 +62,13 @@ export default function Hero() {
         <div className="relative rounded-lg overflow-hidden bg-gradient-to-br from-white/3 to-white/2 p-4 flex items-center justify-center">
           {/* Banner centrado con efecto titilante */}
           <a
-            href="tel:1133954679"
+            href="tel:1164982821"
             className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 
                        bg-violet-600 text-white px-5 py-3 rounded-full flex items-center gap-2 shadow-lg 
                        transition text-center animate-pulse"
           >
             <IconPhone className="w-6 h-6" />
-            <span className="font-semibold text-lg">LLAMANOS 1133954679</span>
+            <span className="font-semibold text-lg">LLAMANOS 1164982821</span>
           </a>
 
           <img

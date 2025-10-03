@@ -3,7 +3,7 @@ export default function FloatingButtons() {
     <>
       {/* Botón de WhatsApp */}
       <a
-        href="https://wa.me/5491133954679" // <-- cambiá por el número real
+        href="https://wa.me/5491164982821" // <-- cambiá por el número real
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-4 right-4 bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-lg transition-transform hover:scale-110"
@@ -21,7 +21,7 @@ export default function FloatingButtons() {
 
       {/* Botón de Teléfono */}
       <a
-        href="tel:+541133954679" // <-- cambiá por el número real
+        href="tel:+541164982821" //
         className="fixed bottom-4 left-4 bg-blue-500 hover:bg-blue-600 text-white p-3 rounded-full shadow-lg transition-transform hover:scale-110"
       >
         {/* Ícono Teléfono */}
